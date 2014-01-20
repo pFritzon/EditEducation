@@ -1,0 +1,1 @@
+removed delete funktion, fixed proper strings for messages

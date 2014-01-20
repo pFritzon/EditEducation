@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EditEducation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="title_activity_expandable_list">ExpandableList Demo</string>
+	<string name="welcome_message">Välkommen!\n I menyn till höger kan du\n läsa om olika utbildningar\n som Edit just nu tillhandahåller.\nFör info om anmälan eller\n andra frågor tveka inte\n att kontakta oss.</string>
+	<string name="contact_info">KONTAKTA OSS\nTelefon: +46 (0)520-420532\nE-mail: info@editab.se</string>
+	<string name="html"><![CDATA[<p>editab.se<p>]]></string> 
+</resources>
